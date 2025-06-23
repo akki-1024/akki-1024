@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aklu-10" alt="aklu-10" /></a> </p>
 
-- 🔭 Recently finished [React Music Website](https://github.com/aklu-10/React_Music_Website.git)
-
 - 📫 How to reach me **24shubhamraj24@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
