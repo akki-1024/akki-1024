@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash!</h1>
-<h3 align="center">Exploring Web Development</h3>
+<h3 align="center">Best Possible Way Out!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aklu-10&label=Profile%20views&color=0e75b6&style=flat" alt="aklu-10" /> </p>
 
